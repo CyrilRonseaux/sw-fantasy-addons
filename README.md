@@ -19,6 +19,16 @@ The modules themselves are also sold on DrivethruRPG:
 Note: The Fantasy Add-on modules for Foundry do not use the Premium Content system by Foundry. So, the modules can't be auto-discovered or installed by Foundry. You have to unzip by yourself in your installation.
 After you bought the module from Drivethru, you should be able to download a zip file. The zip name references the module (e.g. gg-faw for Fighter & Warlords) and the version (e.g. 2.0.0).
 
+### Requirements
+
+* FoundryVTT version 11
+* SWADE system version 3.2.0 or higher
+* (optional) SWADE Core Ruleset Premium Module 3.2.0 or higher
+* (optional) SWADE Fantasy Companion 1.1.0 or higher
+
+The premimum modules are optional. If you don't have them, the Fantasy Add-ons modules won't break.
+However, some descriptions in Edges and Journals of the Fantasy Add-ons modules have links to contents from the Premium modules.
+
 ### Local Installation
 
 * Go to your Foundry installation
