@@ -5,8 +5,9 @@
 This repository is the place to report issues (bugs and improvements) regarding the Savage Worlds Fantasy Add-ons for FoundryVTT modules by Cyril Ronseaux (Gronyon Games) and Joseph Meehan.
 
 The modules allows FoundryVTT users to quickly make use of the [Fantasy Addons PDFs, sold on DrivethruRPG](https://www.drivethrurpg.com/product/307184/Fantasy-AddOns-Pack-BUNDLE).
-The modules themselves are also sold on DrivethruRPG: 
-* Fighters & Warlords for Savage Worlds module for FoundryVTT (upcoming).
+
+The modules themselves are also sold on DrivethruRPG:
+* Fighters & Warlords for Savage Worlds module for FoundryVTT ([upcoming](https://www.drivethrurpg.com/product/452652/Fighters--Warlords-for-FoundryVTT)).
 * Tomes & Prayers for Savage Worlds module for FoundryVTT (not yet released).
 * Wizards & Mystics (not started yet).
 * Companion & Familiars (not started yet).
@@ -15,7 +16,31 @@ The modules themselves are also sold on DrivethruRPG:
 
 ## Module Installation
 
-TODO
+Note: The Fantasy Add-on modules for Foundry do not use the Premium Content system by Foundry. So, the modules can't be auto-discovered or installed by Foundry. You have to unzip by yourself in your installation.
+After you bought the module from Drivethru, you should be able to download a zip file. The zip name references the module (e.g. gg-faw for Fighter & Warlords) and the version (e.g. 2.0.0).
+
+### Local Installation
+
+* Go to your Foundry installation
+* Find your UserData directory
+* Get into UserData/Data/modules
+* Unzip the content of the zip directly into this folder
+*   e.g. if you install gg-faw-2.0.0.zip, you should end up with UserData/Data/modules/gg-faw, inside which you can directly find module.json, the assets/ directory, etc.
+
+### Installing on The Forge
+
+If you host your Foundry games on The Forge (or similar provider which usually installs modules for you direclty from Foundry), you'll have to use some custom importer to install your module. 
+
+* Log into your [TheForge](https://forge-vtt.com/) account
+* Open the menu _My Foundry > Games Configuration_
+* In _Table Tools_ click _Summon Import Wizard_
+* Choose the option to upload a _Zip File_
+* Browse for the module's zip (or drag & drop it)
+* Hit _Analyze File_
+* TheForge should tell you one module was found
+* Tick the option _Do not install from the Bazaar and import this package as a custom package_ then hit _Import All_
+* Once _1 module was imported_ and everything is green, hit _Finish_ and _Close_
+* Now launch your game world, then activate the module for that world
 
 ## How to use the modules?
 
