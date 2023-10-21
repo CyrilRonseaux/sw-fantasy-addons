@@ -19,6 +19,8 @@ The modules themselves are also sold on DrivethruRPG:
 Note: The Fantasy Add-on modules for Foundry do not use the Premium Content system by Foundry. So, the modules can't be auto-discovered or installed by Foundry. You have to unzip by yourself in your installation.
 After you bought the module from Drivethru, you should be able to download a zip file. The zip name references the module (e.g. gg-faw for Fighter & Warlords) and the version (e.g. 2.0.0).
 
+Do **not** forget to activate the module in your world after you installed it.
+
 ### Requirements
 
 * FoundryVTT version 11
