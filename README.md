@@ -7,7 +7,7 @@ This repository is the place to report issues (bugs and improvements) regarding 
 The modules allows FoundryVTT users to quickly make use of the [Fantasy Addons PDFs, sold on DrivethruRPG](https://www.drivethrurpg.com/product/307184/Fantasy-AddOns-Pack-BUNDLE).
 
 The modules themselves are also sold on DrivethruRPG:
-* Fighters & Warlords for Savage Worlds module for FoundryVTT ([upcoming](https://www.drivethrurpg.com/product/452652/Fighters--Warlords-for-FoundryVTT)).
+* Fighters & Warlords for Savage Worlds [module for FoundryVTT](https://www.drivethrurpg.com/product/452652/Fighters--Warlords--FoundryVTT-Module).
 * Tomes & Prayers for Savage Worlds module for FoundryVTT (not yet released).
 * Wizards & Mystics (not started yet).
 * Companion & Familiars (not started yet).
