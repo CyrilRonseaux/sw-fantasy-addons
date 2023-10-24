@@ -14,6 +14,15 @@ The modules themselves are also sold on DrivethruRPG:
 * Bards & Minstrels (not started yet).
 * Shapeshifting & Metamorphosis (not started yet).
 
+## Latest Module Version
+
+If your installed version is older than version listed here, redownload the zip from DrivethruRPG.
+
+| Module ID | Module Label | Latest version |
+| :--- | :--- | :---: |
+| gg-faw | Fighters & Warlords | 2.0.0 |
+
+
 ## Module Installation
 
 Note: The Fantasy Add-on modules for Foundry do not use the Premium Content system by Foundry. So, the modules can't be auto-discovered or installed by Foundry. You have to unzip by yourself in your installation.
