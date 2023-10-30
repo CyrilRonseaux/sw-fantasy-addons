@@ -20,7 +20,7 @@ If your installed version is older than version listed here, redownload the zip 
 
 | Module ID | Module Label | Latest version |
 | :--- | :--- | :---: |
-| gg-faw | Fighters & Warlords | 2.0.1 |
+| gg-faw | Fighters & Warlords | [2.0.1](https://github.com/CyrilRonseaux/sw-fantasy-addons/blob/main/gg-faw-changelog.md) |
 
 
 ## Module Installation
