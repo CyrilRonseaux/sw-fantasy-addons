@@ -25,12 +25,12 @@ If applicable, add screenshots to help explain your problem.
 
 # Versions
  - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Browser version [e.g. latest, 8.0]
- - FoundryVTT version [e.g. 11 build 308]
- - SWADE system version [e.g. 3.2.0]
- - Fantasy Add-on Module(s) Fighters & Walords (gg-faw)
- - Module version [e.g. 2.0.0]
+ - Browser: [e.g. chrome, safari]
+ - Browser version: [e.g. latest, 8.0]
+ - FoundryVTT version: [e.g. 11 build 308]
+ - SWADE system version: [e.g. 3.2.0]
+ - Fantasy Add-on Module(s): Fighters & Walords (gg-faw)
+ - Module version: [e.g. 2.0.0]
 
 # Anything more to say ?
 Add any other context about the problem here.
