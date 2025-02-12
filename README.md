@@ -6,8 +6,8 @@ This repository is the place to report issues (bugs and improvements) regarding 
 
 The modules allows FoundryVTT users to quickly make use of the [Fantasy Addons PDFs, sold on DrivethruRPG](https://www.drivethrurpg.com/product/307184/Fantasy-AddOns-Pack-BUNDLE).
 
-The modules themselves are also sold on DrivethruRPG:
-* Fighters & Warlords for Savage Worlds [module for FoundryVTT](https://www.drivethrurpg.com/product/452652/Fighters--Warlords--FoundryVTT-Module).
+The modules themselves are also sold on [FoundryVTT Marketplace](https://www.foundryvtt.store/):
+* Fighters & Warlords for Savage Worlds [module for FoundryVTT](https://www.foundryvtt.store/products/gg-faw).
 * Tomes & Prayers for Savage Worlds module for FoundryVTT (not yet released).
 * Wizards & Mystics (not started yet).
 * Companion & Familiars (not started yet).
@@ -20,25 +20,32 @@ If your installed version is older than version listed here, redownload the zip 
 
 | Module ID | Module Label | Latest version |
 | :--- | :--- | :---: |
-| gg-faw | [Fighters & Warlords](https://www.drivethrurpg.com/product/452652/Fighters--Warlords--FoundryVTT-Module) | [2.0.1](https://github.com/CyrilRonseaux/sw-fantasy-addons/blob/main/gg-faw-changelog.md) |
-
+| gg-faw | [Fighters & Warlords](https://www.foundryvtt.store/products/gg-faw) | [2.1.0](https://github.com/CyrilRonseaux/sw-fantasy-addons/blob/main/gg-faw-changelog.md) |
 
 ## Module Installation
 
-Note: The Fantasy Add-on modules for Foundry do not use the Premium Content system by Foundry. So, the modules can't be auto-discovered or installed by Foundry. You have to unzip by yourself in your installation.
-After you bought the module from Drivethru, you should be able to download a zip file. The zip name references the module (e.g. gg-faw for Fighter & Warlords) and the version (e.g. 2.0.0).
-
-Do **not** forget to activate the module in your world after you installed it.
+* Buy the module from [FoundryVTT Marketplace](https://www.foundryvtt.store/products/gg-faw).
+* The module key should be automatically added to your FoundryVTT Account (in Purchased content section).
+* You can now install the module directly from your foundry interface.
 
 ### Requirements
 
-* FoundryVTT version 11
-* SWADE system version 3.2.0 or higher
+* FoundryVTT version 11 (also verified as working for version 12)
+* SWADE system version 3.2.0 or higher (also verified as working with version 4.3.x)
 * (optional) SWADE Core Ruleset Premium Module 3.2.0 or higher
 * (optional) SWADE Fantasy Companion 1.1.0 or higher
 
 The premimum modules are optional. If you don't have them, the Fantasy Add-ons modules won't break.
 However, some descriptions in Edges and Journals of the Fantasy Add-ons modules have links to contents from the Premium modules.
+
+## OLD Fighters & Warlords ZIP installation
+
+Note: The Fantasy Add-on modules for Foundry now use the Premium Content system for Foundry. Unless you are still using Fighters & Warlords version 2.0.1 or below, you no longer need to follow the steps below.
+If you want/need to move from ZIP to Premium module (e.g. if you want updates), please contact us on [Discord > FoundryVTT > SWADE > #Fantasy Add-ons](https://discord.com/channels/170995199584108546/1160532496501461162).
+
+* After you bought the module from DrivethruRPG, you should be able to download a zip file. The zip name references the module (e.g. gg-faw for Fighter & Warlords) and the version (e.g. 2.0.0).
+* You have to unzip by yourself in your installation.
+* Do **not** forget to activate the module in your world after you installed it.
 
 ### Local Installation
 
