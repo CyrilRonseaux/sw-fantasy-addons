@@ -18,6 +18,11 @@
 ### Known Issues
 -->
 
+## 2.1.0
+
+Turned the module into Foundry Premium Content. No longer a zip you have to deploy yourself!
+Module is now sold on FoundryVTT Maketplace.
+
 ## 2.0.1
 
 ### Fixed
